@@ -6,9 +6,9 @@ It was ranked 497 on 4014 participants.
 
 # How to run:
 
-'''
+
 ./run_game.sh
-'''
+
 
 Replays are stored in replay folder
 
